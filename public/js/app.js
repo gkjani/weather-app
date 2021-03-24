@@ -1,4 +1,3 @@
-console.log("Client side javascirpt running");
 const weatherForm = document.querySelector("form");
 const searchElement = document.querySelector("input");
 const msg1 = document.querySelector("#message-1");
